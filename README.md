@@ -1,3 +1,4 @@
+ HEAD
 # 🎓 Learnify — Online Learning Platform
 
 A full-stack online learning platform built with the MERN stack, featuring real-time chat, AI chatbot, payment integration, and certificate generation.
@@ -156,3 +157,7 @@ This creates:
 | Error Handling | Custom error middleware, input validation, user-friendly messages |
 | Code Quality | MVC pattern, async/await, JSDoc comments, named exports |
 | Security | JWT + refresh tokens, bcrypt, route guards, file type validation |
+
+# learnify
+Full Stack LMS Platform (MERN)
+ 6572c84952c5f5721cd199c9120b444e0b03a2c0
